@@ -12,3 +12,6 @@ README.txt
 
 ### venv files ###
 digit-recognition/
+
+### Jupyter checkpoints ###
+.ipynb_checkpoints
